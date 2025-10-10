@@ -10,6 +10,7 @@ on:
       - "config/*.dtsi"
       - "boards/*/*/*.keymap"
       - "boards/*/*/*.dtsi"
+      - "*.keymap"
 
 jobs:
   draw:
