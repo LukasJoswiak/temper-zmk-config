@@ -40,7 +40,7 @@ layers:
   Nav:
   - ['&bootloader', '', '', '', '', Gui+Sft+Z, ⌘V, ⌘C, ⌘X, ⌘Z]
   - [⌃, ⎇, ⌘, ⇧, '', ⇪, ←, ↓, ↑, →]
-  - ['', ⎇, '', '', '', INS, HOME, PG DN, '&kg PG_UP', END]
+  - ['', ⎇, '', '', '', INS, HOME, PG DN, PG UP, END]
   - - ''
     - {type: held}
     - ''
